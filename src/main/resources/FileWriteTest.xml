@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleCalculator>
+  <expressionResults>
+    <expressionResult>
+      <result>0.0</result>
+    </expressionResult>
+    <expressionResult>
+      <result>3.0</result>
+    </expressionResult>
+  </expressionResults>
+</simpleCalculator>
